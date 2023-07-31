@@ -20,3 +20,7 @@ Because in my personal experience I find the necesity of store data like: prescr
   - [ ] Configure the JWT authentication
 - [ ] Put more details in the documentation folder
   - [ ] Define the main use cases that we're going to create for the MVP
+
+## Contributors
+
+- [Cristian Sotomayor](https://github.com/csdev19)
